@@ -6,18 +6,18 @@ body {
 }
 
 :root {
-    --primary-color: #xxxxxx;
-    --secondary-color:  #xxxxxx;
-    --accent1-color: #xxxxxx;
-    --accent2-color: #xxxxxx;
+    --primary-color: #9cf0fc;
+    --secondary-color: #BCE4FC;
+    --accent1-color:#BCE4FC;
+    --accent2-color: #DAB797;
     
     --heading-font:'_______', Roboto;
     --paragraph-font:'_______',Roboto;
 
-    --nav-backgroud-color:  #xxxxxx;
-    --nav-link-color:  #xxxxxx;
-    --nav-hover-link-color:  #xxxxxx;
-    --nav-hover-background-color: #xxxxxx;
+    --nav-backgroud-color:   #DAB797;
+    --nav-link-color:  #BCE4FC;
+    --nav-hover-link-color:  #BCE4FC;
+    --nav-hover-background-color: #9cf0fc;
 }
 
 h1, h2, h3, h4, h5, h6{
