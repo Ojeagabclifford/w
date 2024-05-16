@@ -32,16 +32,16 @@ max-width : 960px;
 padding : 20px;
 }
 :root {
---primary-color : #B7D3F2;
---secondary-color : #8A84E2;
---accent1-color :#84AFE6;
---accent2-color :#AFAFDC;
---heading-font : serif,Roboto;
---paragraph-font : serif,Roboto;
---nav-backgroud-color : #F3E9DC;
---nav-link-color : #9CF0FC;
---nav-hover-link-color : #DAB49D;
---nav-hover-background-color : #F3E9DC;
+--primary-color: #B7D3F2;
+--secondary-color: #8A84E2;
+--accent1-color:#84AFE6;
+--accent2-color:#AFAFDC;
+--heading-font: serif,Roboto;
+--paragraph-font: serif,Roboto;
+--nav-backgroud-color: #F3E9DC;
+--nav-link-color: #9CF0FC;
+--nav-hover-link-color: #DAB49D;
+--nav-hover-background-color: #F3E9DC;
 }
 
 h1, h2, h3, h4, h5, h6{
