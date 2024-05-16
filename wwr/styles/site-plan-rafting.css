@@ -31,6 +31,19 @@ body {
 max-width : 960px;
 padding : 20px;
 }
+
+:root {
+    --primary-color:#XXXXXX;
+    --secondary-color:#XXXXXX;
+    --accent1-color:#XXXXXX;
+    --accent2-color:#XXXXXX;
+    --heading-font: '______',Serif;
+    --paragraph-font:'______',Serif;
+    --nav-backgroud-color:#XXXXXX;
+    --nav-link-color:#XXXXXX;
+    --nav-hover-link-color:#XXXXXX;
+    --nav-hover-background-color:#XXXXXX;
+}
 :root {
     --primary-color:#B7D3F2;
     --secondary-color:#8A84E2;
