@@ -32,10 +32,10 @@ max-width : 960px;
 padding : 20px;
 }
 :root {
---primary-color : #DAB797;
---secondary-color : #9CF0FC;
---accent1-color : #DAB49D;
---accent2-color : #F3E9DC;
+--primary-color : #B7D3F2;
+--secondary-color : #8A84E2;
+--accent1-color :#84AFE6;
+--accent2-color :#AFAFDC;
 --heading-font : serif,Roboto;
 --paragraph-font : serif,Roboto;
 --nav-backgroud-color : #F3E9DC;
