@@ -42,26 +42,17 @@ header{
     background-color: var(--accent1-color);
 }
 
-p{
-    padding: 25px;
+header {
+padding : 20px;
+background-color : #DAB49D;
 }
-
-nav {
-    background-color: var(--nav-backgroud-color);
-    font-size: 10px;
-    display: flex;
-}
-nav a {
-    display: block;
-    color: var(--nav-link-color);
-    text-decoration: none;
-    padding: 10px;
+p {
+padding : 25px;
 }
 nav a:link, nav a:visited {
-    color: var(--nav-link-color);
+color : var(--nav-link-color);
 }
-
-nav a:hover{
-    color: var(--nav-hover-link-color);
-    background-color: var(--nav-hover-background-color);
+nav a:hover {
+color : var(--nav-hover-link-color);
+background-color : #F3E9DC;
 }
