@@ -36,8 +36,8 @@ padding : 20px;
     --secondary-color:#8A84E2;
     --accent1-color:#84AFE6;
     --accent2-color:#AFAFDC;
-    --heading-font: serif,Roboto;
-    --paragraph-font: serif,Roboto;
+    --heading-font: 'Rock Salt',Roboto;
+    --paragraph-font:'Rock Salt',Roboto;
     --nav-backgroud-color:#84AFE6;
     --nav-link-color:#B7D3F2;
     --nav-hover-link-color:#8A84E2;
@@ -56,7 +56,7 @@ header{
 
 header {
 padding : 20px;
-background-color :var(--nav-hover-background-color);
+background-color :var(--nav-backgroud-color);
 }
 p {
 padding : 25px;
@@ -66,5 +66,5 @@ color : var(--nav-link-color);
 }
 nav a:hover {
 color : var(--nav-hover-link-color);
-background-color :var(--nav-hover-background-color);
+background-color :var(--nav-backgroud-color);
 }
