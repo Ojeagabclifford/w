@@ -56,7 +56,7 @@ header{
 
 header {
 padding : 20px;
-background-color : #DAB49D;
+background-color :var(--nav-hover-background-color);
 }
 p {
 padding : 25px;
@@ -66,5 +66,5 @@ color : var(--nav-link-color);
 }
 nav a:hover {
 color : var(--nav-hover-link-color);
-background-color : #F3E9DC;
+background-color :var(--nav-hover-background-color);
 }
