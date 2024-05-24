@@ -18,7 +18,9 @@ font-weight : 700;
 color : #fff;
 }
 h1 {
-color : steelblue;
+color: steelblue;
+margin: 5px;
+border-bottom: solid 1px;
 }
 main img {
 width : 150px;
@@ -56,7 +58,7 @@ text-align : center;
 }
 .box {
 margin : 1rem;
-border : rgb(0, 0, 0, 1) solid 1px;
+border : steelblue solid 1px;
 padding : 1rem;
 background-color : #ddd;
 color : #000;
