@@ -31,8 +31,10 @@ float : right;
 p {
 padding : 0;
 }
-header, footer {
-margin : 0 auto;
+header, .grid, footer {
+  margin : 0 auto;
+  max-width: 840px;
+
 }
 aside {
 position : relative;
