@@ -239,6 +239,7 @@ align-content : center;
 justify-content : space-evenly;
 flex-direction : row;
 background-color : rosybrown;
+padding:6px;
 }
 .history {
 display : grid;
@@ -283,4 +284,5 @@ height : auto;
 }
 nav img {
     width: 32px;
+    text-decoration: none;
 }
