@@ -201,6 +201,7 @@ grid-template-columns : 300px 2fr 2fr;
 border-bottom : 1px black;
 max-width : 1000px;
 align-items : center;
+color: white;
 }
 header img {
 width : 130px;
@@ -355,9 +356,8 @@ label{
 
 #message{
     margin: 4px;
-    float: right;
-    width: 100px;
-    height: 50px;
+    width: 400px;
+    height: 90px;
 }
 
 #mes{
