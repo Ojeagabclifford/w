@@ -287,7 +287,7 @@ nav img {
 
 /*     ddd */
 
-    .pictures{
+.pictures{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
@@ -360,10 +360,6 @@ label{
     height: 90px;
 }
 
-#mes{
-    width: 400px;
-    margin-bottom: 15px;
-}
 .cl{
     text-align: center;
     text-decoration: dashed;
@@ -426,4 +422,7 @@ section {
     font-size: larger;
 }
 
-
+iframe{
+    border:0;
+    width="600" height="250"
+}
