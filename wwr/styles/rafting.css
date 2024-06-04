@@ -134,10 +134,11 @@ justify-content : center;
 align-items : stretch;
 grid-row : 2 / 2;
 }
-h1 {
-background-color: green;
-color : white;
-border : silver solid 1px;
+h1  {
+    color: white;
+    border: silver solid 1px;
+    background-color: green;
+    text-align: center;
 }
 .naves {
 display : flex;
