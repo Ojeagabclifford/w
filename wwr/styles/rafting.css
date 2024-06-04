@@ -201,12 +201,12 @@ align-items : center;
 color: white;
     
 }
-header img {
+/* header img {
 width : 130px;
 display : flex;
 margin : 0 0.25rem 0 7rem;
 justify-content : center;
-}
+} */
 figure {
 text-align : center;
 }
@@ -244,11 +244,11 @@ grid-template-rows : 40px 1fr;
 height : 240px;
 margin : 10px;
 }
-.one {
+/* .one {
 grid-column : 2;
 text-align : center;
-}
-.two {
+} */
+/* .two {
 grid-row : 2;
 display : flex;
 align-items : center;
@@ -266,7 +266,7 @@ justify-content : flex-end;
 height : 190px;
 width : 500px;
 grid-row : 2;
-}
+} */
 footer a {
 padding-inline : 5px;
 }
