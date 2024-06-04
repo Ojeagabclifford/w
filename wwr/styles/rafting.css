@@ -134,12 +134,7 @@ justify-content : center;
 align-items : stretch;
 grid-row : 2 / 2;
 }
-h1  {
-    color: white;
-    border: silver solid 1px;
-    background-color: green;
-    text-align: center;
-}
+
 .naves {
 display : flex;
 }
@@ -380,7 +375,12 @@ label{
     margin-bottom: 15px;
 }
 
-
+h1 {
+    color: white;
+    border: silver solid 1px;
+    background-color: green;
+    text-align: center;
+}
 .cl2{
     text-align: center;
     text-decoration: dashed;
