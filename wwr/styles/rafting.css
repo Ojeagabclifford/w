@@ -161,10 +161,10 @@ text-decoration : none;
 grid-column : 3 / 2;
 grid-row : 4;
 }
-article img {
+/* article img {
 float : right;
 opacity : 1;
-}
+} */
 /* #Imagescontainer {
 grid-template-columns : 1fr 1fr 1fr 1fr;
 } */
