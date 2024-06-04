@@ -431,3 +431,6 @@ section {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
 }
+    footer {
+    border: black solid 1px;
+}
