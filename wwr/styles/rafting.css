@@ -286,3 +286,142 @@ nav img {
     width: 32px;
     text-decoration: none;
 }
+
+/*     ddd */
+
+    .pictures{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#img1{
+    width: 350px;
+    border: #8A84E2 solid 1px;
+    margin-top: 30px;
+}
+
+#img2{
+    width: 350px;
+    border: #8A84E2 solid 1px;
+    height: 70%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#submit{
+    margin-bottom: 5px;
+    background-color: blue;
+    width: 300px;
+    height: 50px;
+    color: white;
+}
+
+#submit:hover{
+    color: aqua;
+    background-color: red;
+}
+
+form{
+        margin: 5px;
+    }
+
+.row1{
+    grid-row: 1;
+    
+}
+
+.row2{
+    grid-row: 2;
+    margin: 10px;
+}
+
+#useremail{
+    width: 300px;
+    height: 30px;
+    background-color: #B7D3F2;
+}
+
+#fullname{
+    width: 300px;
+    height: 30px;
+    background-color: #B7D3F2;
+}
+#Inquiry{
+    font-size: larger;
+    margin: 10px;
+}
+
+label{
+    color: rgb(3, 31, 22);
+    font-size: larger;
+}
+
+#message{
+    margin: 4px;
+    width: 400px;
+    height: 90px;
+}
+
+.cl{
+    text-align: center;
+    text-decoration: dashed;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+
+.cl2{
+    text-align: center;
+    text-decoration: dashed;
+    margin-right:90px;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+.cl3{
+    text-align: center;
+    text-decoration: dashed;
+    margin-right:50%;
+
+    text-align: center;
+    background-color: black;
+    color: beige;
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+
+#p1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+
+
+}
+#p3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#p2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+
