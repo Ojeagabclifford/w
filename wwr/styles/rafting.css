@@ -344,11 +344,18 @@ form{
     height: 30px;
     background-color: #B7D3F2;
 }
-#Inquiry{
+#Inquiry1{
     font-size: larger;
     margin: 10px;
 }
-
+#Inquiry2{
+    font-size: larger;
+    margin: 10px;
+}
+#Inquiry3{
+    font-size: larger;
+    margin: 10px;
+}
 label{
     color: rgb(3, 31, 22);
     font-size: larger;
