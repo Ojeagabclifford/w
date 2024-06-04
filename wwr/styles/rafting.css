@@ -202,6 +202,7 @@ border-bottom : 1px black;
 max-width : 1000px;
 align-items : center;
 color: white;
+    
 }
 header img {
 width : 130px;
@@ -427,9 +428,4 @@ section {
     margin-bottom: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
-}
-
-iframe{
-    border:0;
-    width="600" height="250"
 }
