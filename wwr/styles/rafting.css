@@ -165,10 +165,10 @@ article img {
 float : right;
 opacity : 1;
 }
-#Imagescontainer {
+/* #Imagescontainer {
 grid-template-columns : 1fr 1fr 1fr 1fr;
-}
-article {
+} */
+/* article {
 position : absolute;
 background-color : #8A84E2;
 padding-top : 10px;
@@ -178,7 +178,7 @@ padding-bottom : 10px;
 display : grid;
 grid-template-columns : 200px 200px 200px 200px 200px;
 column-gap : 10px;
-}
+} */
 /* section img {
 width : 200px;
 height : 90%;
