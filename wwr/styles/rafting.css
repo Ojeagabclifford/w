@@ -196,7 +196,6 @@ header {
     margin: 1rem auto;
     grid-template-columns: 300px 2fr 2fr;
     border-bottom: 1px black;
-    max-width: 1000px;
     align-items: center;
     color: white;
     background-color: pink;
@@ -441,4 +440,12 @@ section {
 }
     footer {
     border: black solid 1px;
+}
+    img#img3 {
+    width: 350px;
+    margin-top: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(138, 132, 226);
+    border-image: initial;
 }
