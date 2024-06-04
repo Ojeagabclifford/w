@@ -135,6 +135,7 @@ align-items : stretch;
 grid-row : 2 / 2;
 }
 h1 {
+background-color: green;
 color : white;
 border : silver solid 1px;
 }
