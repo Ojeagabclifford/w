@@ -651,7 +651,7 @@ figcaption{
 }
 
 #arctle1{
-    position: absolute;
+/*     position: absolute; */
     right: 600px;
     background-color: black;
     bottom: 100px;
