@@ -652,9 +652,9 @@ figcaption{
 
 #arctle1{
     position: absolute;
-    left: 600px;
+    right: 600px;
     background-color: black;
-    bottom: 200px;
+    bottom: 100px;
     padding: 50px;
     text-decoration: solid;
     
