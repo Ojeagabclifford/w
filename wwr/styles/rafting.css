@@ -619,4 +619,43 @@ figcaption{
     text-transform: uppercase;
 }
 
+#imgLookout{
+    width: 100%;
+    z-index: -1;
+    position: relative;
+    
+}
 
+#HH{
+    text-align: center;
+    background-color: #84AFE6;
+    left:200px;
+    /* position: sticky;
+    top: 133px; */
+    bottom: 40px;
+}
+
+#onlyform{
+    width: 700px;
+    height: 25k0px;
+    color: black;
+    position: absolute;
+    bottom: 1px;
+    /* z-index: -1; */
+}
+
+#row1onlyform{
+    color: black;
+    height: 100px;
+      /* z-index: -1; */
+}
+
+#arctle1{
+    position: absolute;
+    left: 1200px;
+    background-color: black;
+    bottom: 400px;
+    padding: 50px;
+    text-decoration: solid;
+    
+}
